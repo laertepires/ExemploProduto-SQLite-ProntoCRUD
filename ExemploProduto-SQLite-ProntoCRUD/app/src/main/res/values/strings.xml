@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ExemploProduto-SQLite</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnAdicionar">Adicionar</string>
+    <string name="btnProcurar">Procurar</string>
+    <string name="title_activity_tela_cadastro">TelaCadastro</string>
+    <string name="title_activity_tela_busca">TelaBusca</string>
+    <string name="etCodigo">Código</string>
+    <string name="etNome">Nome</string>
+    <string name="etQuantidade">Quantidade</string>
+    <string name="etValorCusto">Valor Custo</string>
+    <string name="btnAlterar">Alterar</string>
+</resources>
